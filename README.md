@@ -20,13 +20,13 @@ This widget is a virtual duplicate of the Yahoo widget Panzer battery widget tha
 you can find here: [https://github.com/yereverluvinunclebert/Panzer-Clock-Ywidget/tree/main](https://github.com/yereverluvinunclebert/Panzer-battery-gauge-Ywidget)
 The graphic interface and operation of the two types of widgets are the same. The 
 only differences are the configuration preference utility (this has a cut-down 
-version) and the engine that is utilied to put the widget on your screen.
+version), the language is Micrososoft's JScript (rather thanjavascript) and it is the Xwidget engine that is utilised to put the widget on your screen.
 
 ![panzer-battery-help-500](https://github.com/yereverluvinunclebert/Panzer-Tank-Battery-Gauge-Xwidget/assets/2788342/fc1cb570-b610-4ba6-b430-59e2ec35d84f)
 
 This widget is uploaded here for historical archival reasons. I suggest that you 
 use the Yahoo widget version as it is a superior engine for developing widgets. 
-I will provide bugfixes for the Yahoo widget version but not for Xwidgets.
+I will provide bugfixes for the Yahoo widget version but NOT for Xwidgets.
 
 All Jscript widgets need an engine to function, in this case the widget uses 
 the XWidget engine. The engine interprets the Jscript and creates the widget 
