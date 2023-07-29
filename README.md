@@ -30,7 +30,7 @@ This widget is uploaded here for historical archival reasons. I suggest that you
 use the Yahoo widget version as it is a superior engine for developing widgets. 
 I will provide bugfixes for the Yahoo widget version but NOT for Xwidgets.
 
-![xwidget-title2](https://github.com/yereverluvinunclebert/Panzer-Tank-Battery-Gauge-Xwidget/assets/2788342/ed48a54e-8e8d-4a47-bbc4-57d25d4111bf)
+![xwidget-title](https://github.com/yereverluvinunclebert/Panzer-Tank-Battery-Gauge-Xwidget/assets/2788342/f9eec60b-1cd2-4f75-ac64-45d60a8c5c6d)
 
 All Jscript widgets need an engine to function, in this case the widget uses 
 the XWidget engine. The engine interprets the Jscript and creates the widget 
