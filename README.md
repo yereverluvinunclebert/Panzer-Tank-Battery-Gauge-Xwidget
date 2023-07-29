@@ -10,6 +10,8 @@ To find out how the widget operates, simply right click and select Help and a fu
 
 The widget can be resized - Hover the cursor over the widget. Press the CTRL key and use your mousewheel up or down. The widget will resize dynamically.
 
+![dock](https://github.com/yereverluvinunclebert/Panzer-Tank-Battery-Gauge-Xwidget/assets/2788342/5905175f-c798-4749-b370-b493d9c9f3a9)
+
 Right clicking will bring up a menu of options. Double-clicking on the widget will cause a personalised Windows application to fire up. The first time you run it there will be no assigned function and so it will state as such and then pop up the preferences so that you can enter the command of your choice. The widget takes command line-style commands for windows.
 
 This widget is a virtual duplicate of the Yahoo widget Panzer Clock widget that 
@@ -18,7 +20,7 @@ The graphic interface and operation of the two types of widgets are the same. Th
 only differences are the configuration preference utility (that is a cut-down 
 version) and the engine that is utilied to put the widget on your screen.
 
-![panzer-clock-help](https://github.com/yereverluvinunclebert/Panzer-Tank-Stopwatch-Xwidget/assets/2788342/63ef603d-8eea-406a-8767-b72371860a7f)
+![panzer-battery-help-500](https://github.com/yereverluvinunclebert/Panzer-Tank-Battery-Gauge-Xwidget/assets/2788342/fc1cb570-b610-4ba6-b430-59e2ec35d84f)
 
 This widget is uploaded here for historical archival reasons. I suggest that you 
 use the Yahoo widget version as it is a superior engine for developing widgets. 
@@ -56,8 +58,8 @@ Running the widget using a Jscript engine frees Javascript from running only
 within the captivity of a browser o, you will now be able to run these widgets on 
 your Windows desktop as long as you have the correct widget engine installed.
 
- ![Icon](https://github.com/yereverluvinunclebert/Panzer-Clock-Ywidget/assets/2788342/332a7b59-abd6-4eac-857d-51dfe2d80af9)
- 
+ ![panzer-battery-icon](https://github.com/yereverluvinunclebert/Panzer-Tank-Battery-Gauge-Xwidget/assets/2788342/c02d8cd9-c4ba-40b6-bf5a-463759cdf189)
+
 Instructions for running XWidgets on Windows
 =================================================
 
@@ -66,7 +68,8 @@ Instructions for running XWidgets on Windows
 3. Unzip it
 4. Double-click on the resulting .XUL file and it will install and run
 
-![about](https://github.com/yereverluvinunclebert/Panzer-Tank-Stopwatch-Xwidget/assets/2788342/d990202c-97a2-40fb-b271-97afa9bd7763)
+![about](https://github.com/yereverluvinunclebert/Panzer-Tank-Battery-Gauge-Xwidget/assets/2788342/b41907bb-2bc2-4b0c-b829-78dcd5a8fd85)
+
 
 LICENCE AGREEMENTS:
 
