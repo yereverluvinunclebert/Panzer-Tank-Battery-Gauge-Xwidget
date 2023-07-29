@@ -16,10 +16,10 @@ The widget can be resized - Hover the cursor over the widget. Press the CTRL key
 
 Right clicking will bring up a menu of options. Double-clicking on the widget will cause a personalised Windows application to fire up. The first time you run it there will be no assigned function and so it will state as such and then pop up the preferences so that you can enter the command of your choice. The widget takes command line-style commands for windows.
 
-This widget is a virtual duplicate of the Yahoo widget Panzer Clock widget that 
-you can find here: https://github.com/yereverluvinunclebert/Panzer-Clock-Ywidget/tree/main
+This widget is a virtual duplicate of the Yahoo widget Panzer battery widget that 
+you can find here: [https://github.com/yereverluvinunclebert/Panzer-Clock-Ywidget/tree/main](https://github.com/yereverluvinunclebert/Panzer-battery-gauge-Ywidget)
 The graphic interface and operation of the two types of widgets are the same. The 
-only differences are the configuration preference utility (that is a cut-down 
+only differences are the configuration preference utility (this has a cut-down 
 version) and the engine that is utilied to put the widget on your screen.
 
 ![panzer-battery-help-500](https://github.com/yereverluvinunclebert/Panzer-Tank-Battery-Gauge-Xwidget/assets/2788342/fc1cb570-b610-4ba6-b430-59e2ec35d84f)
