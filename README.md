@@ -16,6 +16,8 @@ The widget can be resized - Hover the cursor over the widget. Press the CTRL key
 
 Right clicking will bring up a menu of options. Double-clicking on the widget will cause a personalised Windows application to fire up. The first time you run it there will be no assigned function and so it will state as such and then pop up the preferences so that you can enter the command of your choice. The widget takes command line-style commands for windows.
 
+![xwidget-title2](https://github.com/yereverluvinunclebert/Panzer-Tank-Battery-Gauge-Xwidget/assets/2788342/7e4b1d5e-2adc-4820-a577-d8da71874c1d)
+
 This widget is a virtual duplicate of the Yahoo widget Panzer battery widget that 
 you can find here: https://github.com/yereverluvinunclebert/Panzer-battery-gauge-Ywidget
 The graphic interface and operation of the two types of widgets are the same. The 
@@ -27,6 +29,8 @@ version), the language is Micrososoft's JScript (rather than javascript) and it 
 This widget is uploaded here for historical archival reasons. I suggest that you 
 use the Yahoo widget version as it is a superior engine for developing widgets. 
 I will provide bugfixes for the Yahoo widget version but NOT for Xwidgets.
+
+![xwidget-title2](https://github.com/yereverluvinunclebert/Panzer-Tank-Battery-Gauge-Xwidget/assets/2788342/ed48a54e-8e8d-4a47-bbc4-57d25d4111bf)
 
 All Jscript widgets need an engine to function, in this case the widget uses 
 the XWidget engine. The engine interprets the Jscript and creates the widget 
