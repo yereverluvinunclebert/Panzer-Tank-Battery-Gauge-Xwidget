@@ -2,6 +2,8 @@
  
 Dieselpunk Desktop Battery widget, written in Jscript for the XWidget Engine. Created for XP, Vista, Win7, 8, 10+ as well as the Apple Mac.
 
+![panzer_battery_gauge_xwidget](https://github.com/yereverluvinunclebert/Panzer-Tank-Battery-Gauge-Xwidget/assets/2788342/49e17573-a955-4509-ad76-bb8c7a2db72e)
+
 A Dieselpunk Battery widget. - I created for the World of Tanks and War Thunder communities. This Panzer widget is a simple Battery strength gauge. Functional and gorgeous at the same time as long as you have a battery. The graphics are my own, I took original inspiration from a clock face by Italo Fortana.
 
 This Panzer widget is an attractive dieselpunk Xwidget for your desktop. It is a simple multi-timezone stopwatch and clock. Functional and gorgeous at the same time. This Widget is a moveable widget that you can move anywhere around the desktop as you require.
